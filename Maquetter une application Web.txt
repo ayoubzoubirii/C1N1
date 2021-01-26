@@ -1,0 +1,26 @@
+Ce brief projet vous permettra de créer une maquette graphique, pour l'application web w3schools,
+ grâce à l'usage des outils Adobe XD.
+
+les pages :
+
+home page
+
+learn Html
+
+login in
+
+try it yourself
+
+Modalités pédagogiques
+Modalité de travail :
+
+Travail individuel
+
+Timeline:
+
+5 journées
+
+Livrables
+Lien Github du repo contenant les maquettes réalisées.
+
+​
